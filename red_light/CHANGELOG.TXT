@@ -1,0 +1,8 @@
+http://www.templatelite.com/red-light-free-wordpress-theme/
+
+VERSION DATE        TYPE    CHANGES
++-------+-----------+-------+----------------------------------------------------------------------------------+
+1.01    2009/05/11  Modify  Modify the javascript to fix the height of dynamic content.
+                    Modify  Move javascript to seperate .js file
+1.00    2009/04/14  New     New release.
+
